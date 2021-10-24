@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T07:18:20.358Z" agent="5.0 (Windows)" etag="_EP7TvFlHMOfeRSuOtH3" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-24T07:21:45.132Z" agent="5.0 (Windows)" etag="FCBZ4q_jKkbskxSSoAOX" version="15.5.8" type="github">
   <diagram id="Kq4hmbS83NQviKXq5_Yj" name="ページ1">
-    <mxGraphModel dx="677" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="219" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,6 +42,26 @@
         </mxCell>
         <mxCell id="oxyjLJbU5iXGi_ROdamL-13" value="Flat plate electrode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oxyjLJbU5iXGi_ROdamL-18" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="sourcePoint" />
+            <mxPoint x="380" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="490" />
+              <mxPoint x="380" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oxyjLJbU5iXGi_ROdamL-19" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="oxyjLJbU5iXGi_ROdamL-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="270" />
+              <mxPoint x="384" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
