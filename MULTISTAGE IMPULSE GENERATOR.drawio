@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T08:24:11.609Z" agent="5.0 (Windows)" version="15.5.8" etag="U2Dwhc1Je59_NyZT4rhN" type="github"><diagram id="g9-vf1KmViCmTDRuJo9O">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-24T08:34:17.324Z" agent="5.0 (Windows)" etag="BtHVhLqDUBQWGvOjlqAi" version="15.5.8" type="github">
+  <diagram id="g9-vf1KmViCmTDRuJo9O" name="ページ1">
+    <mxGraphModel dx="156" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;fontSize=20;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="135" y="342.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;fontSize=20;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="135" y="452.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;fontSize=20;strokeWidth=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="250" y="357.5" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=1;jumpSize=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YzEcjVWeZ7RJyhcpAwao-3" target="YzEcjVWeZ7RJyhcpAwao-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="490" as="sourcePoint" />
+            <mxPoint x="320" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;strokeWidth=1;jumpSize=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YzEcjVWeZ7RJyhcpAwao-5" target="YzEcjVWeZ7RJyhcpAwao-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="350" as="sourcePoint" />
+            <mxPoint x="250" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YzEcjVWeZ7RJyhcpAwao-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;" vertex="1" parent="1">
+          <mxGeometry x="258" y="457.5" width="4" height="4" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
