@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-13T14:30:23.521Z" agent="5.0 (Windows)" etag="pJz_4VX-l7-yvzvxg8by" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-13T14:31:27.608Z" agent="5.0 (Windows)" etag="vvkb_VvGbqw4IVdvKbvj" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,6 +113,12 @@
             <mxPoint x="710" y="780" as="sourcePoint" />
             <mxPoint x="710" y="750" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WFhRwt8FvtZSL98cEws3-39" value="熱電対" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WFhRwt8FvtZSL98cEws3-41" value="&lt;div&gt;-196℃&lt;/div&gt;&lt;div&gt;液体窒素&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="104" y="825" width="148" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
