@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T16:50:22.911Z" agent="5.0 (Windows)" version="15.8.3" etag="ffmyZ9Zms9Ibeb_viq9s" type="github"><diagram id="YqTTXCm3Z9OY1LwyzTcz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-12T17:02:29.488Z" agent="5.0 (Windows)" etag="NDRv1FyGBrtNb_Cy79eW" version="15.8.3" type="github">
+  <diagram id="YqTTXCm3Z9OY1LwyzTcz" name="ページ1">
+    <mxGraphModel dx="219" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uBguimm7DA5kwSIhZWRy-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://analogista.jp/wp-content/uploads/2021/08/gnd01.jpg;" vertex="1" parent="1">
+          <mxGeometry x="255" y="351" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="261.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-6" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="248.25" width="80" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;" vertex="1" parent="1">
+          <mxGeometry x="150" y="261.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uBguimm7DA5kwSIhZWRy-9" target="uBguimm7DA5kwSIhZWRy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-9" value="" style="pointerEvents=1;fillColor=strokeColor;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.diodes.diode;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="128.75" y="310" width="52.5" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://analogista.jp/wp-content/uploads/2021/08/gnd01.jpg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="346" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-12" value="" style="pointerEvents=1;fillColor=strokeColor;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.diodes.diode;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="255.25" width="52.5" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="261.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uBguimm7DA5kwSIhZWRy-15" target="uBguimm7DA5kwSIhZWRy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-15" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="181.25" y="306.75" width="72.5" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://analogista.jp/wp-content/uploads/2021/08/gnd01.jpg;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="346" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uBguimm7DA5kwSIhZWRy-19" target="uBguimm7DA5kwSIhZWRy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-19" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="317.5" width="75" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uBguimm7DA5kwSIhZWRy-20" target="uBguimm7DA5kwSIhZWRy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;" vertex="1" parent="1">
+          <mxGeometry x="265" y="261.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uBguimm7DA5kwSIhZWRy-24" target="uBguimm7DA5kwSIhZWRy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBguimm7DA5kwSIhZWRy-24" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=ellipse;perimeter=ellipsePerimeter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="261.5" width="10" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
