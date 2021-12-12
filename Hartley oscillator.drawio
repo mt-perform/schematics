@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T16:13:22.381Z" agent="5.0 (Windows)" etag="rbCAEifvfmBXp9kc1rAq" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T16:22:58.481Z" agent="5.0 (Windows)" etag="soy0ARNFZjpKdCNub2jI" version="15.8.3" type="github">
   <diagram id="TUQsQusANyyZqXLs2lv1" name="ページ1">
     <mxGraphModel dx="677" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,6 +72,27 @@
         </mxCell>
         <mxCell id="ePiiwjLtYTE_nr252E6W-22" value="出力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="399" y="150" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;C&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;b&gt;L&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="378" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-25" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="429" y="188.5" width="115" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;0.01&lt;i&gt;μ&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;fontFamily=Times New Roman;strokeWidth=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="504" y="164" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="539" y="206" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-29" value="330k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="544" y="156.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
