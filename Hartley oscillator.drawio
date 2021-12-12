@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T16:46:33.825Z" agent="5.0 (Windows)" etag="N7qnK35FT0pBGRqNfEe7" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T16:47:21.891Z" agent="5.0 (Windows)" etag="L-ZfbF4GJW_vpoE9saiQ" version="15.8.3" type="github">
   <diagram id="TUQsQusANyyZqXLs2lv1" name="ページ1">
     <mxGraphModel dx="677" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,6 +178,9 @@
         </mxCell>
         <mxCell id="ePiiwjLtYTE_nr252E6W-63" value="+5V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="97" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-65" value="&lt;i&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Tr&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="77" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
