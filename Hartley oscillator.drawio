@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T15:33:40.981Z" agent="5.0 (Windows)" version="15.8.3" etag="1WLgYdi2E_iQeWrt9WKb" type="github"><diagram id="TUQsQusANyyZqXLs2lv1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-12T15:59:00.064Z" agent="5.0 (Windows)" etag="ciWMm300cy8nnI0XnyE4" version="15.8.3" type="github">
+  <diagram id="TUQsQusANyyZqXLs2lv1" name="ページ1">
+    <mxGraphModel dx="732" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ePiiwjLtYTE_nr252E6W-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="205" y="285" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;C&lt;i&gt;x&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
