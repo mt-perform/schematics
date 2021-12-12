@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T16:06:47.830Z" agent="5.0 (Windows)" etag="f4bUVNLe4tFlq6V1GU_N" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T16:13:22.381Z" agent="5.0 (Windows)" etag="rbCAEifvfmBXp9kc1rAq" version="15.8.3" type="github">
   <diagram id="TUQsQusANyyZqXLs2lv1" name="ページ1">
     <mxGraphModel dx="677" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,14 @@
         <mxCell id="ePiiwjLtYTE_nr252E6W-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="330" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;endArrow=none;endFill=0;" edge="1" parent="1" source="ePiiwjLtYTE_nr252E6W-10" target="ePiiwjLtYTE_nr252E6W-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="318" y="211" />
+              <mxPoint x="434" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ePiiwjLtYTE_nr252E6W-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="220" width="10" height="10" as="geometry" />
         </mxCell>
@@ -50,6 +58,20 @@
         </mxCell>
         <mxCell id="ePiiwjLtYTE_nr252E6W-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="428" y="393" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://analogista.jp/wp-content/uploads/2021/08/gnd01.jpg;" vertex="1" parent="1">
+          <mxGeometry x="421.5" y="403" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;endArrow=classic;endFill=1;" edge="1" parent="1" source="ePiiwjLtYTE_nr252E6W-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;strokeWidth=1;align=center;strokeColor=none;fillColor=#171717;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="429" y="206" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ePiiwjLtYTE_nr252E6W-22" value="出力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="399" y="150" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
